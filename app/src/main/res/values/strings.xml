@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="appname">Photo Gallery</string>
+    <string name="search">Search</string>
+    <string name="camera">Camera</string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="settings">Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="about">About</string>
+    <string name="favourite">Favourite</string>
+    <string name="archived">Archived</string>
+    <string name="fragment_favourite">Fragment Favourite</string>
+    <string name="fragment_archived">Fragment Archived</string>
+</resources>
